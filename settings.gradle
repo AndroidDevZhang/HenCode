@@ -1,2 +1,2 @@
-include ':app'
+include ':app', 'PracticeDraw1'
 rootProject.name='HenCode'
