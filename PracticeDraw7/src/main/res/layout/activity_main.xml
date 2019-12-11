@@ -13,6 +13,8 @@
         android:layout_width="match_parent"
         android:layout_height="48dp"
         android:background="@android:color/white"
+        app:tabIndicatorColor="@android:color/holo_red_light"
+        app:tabSelectedTextColor="@android:color/holo_blue_light"
         app:tabTextAppearance="@android:style/TextAppearance.Widget.TabWidget"
         app:tabMode="scrollable" />
 
