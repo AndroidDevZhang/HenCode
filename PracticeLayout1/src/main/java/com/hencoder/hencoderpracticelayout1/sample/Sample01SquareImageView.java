@@ -1,11 +1,14 @@
 package com.hencoder.hencoderpracticelayout1.sample;
 
+import android.annotation.SuppressLint;
 import android.content.Context;
-import androidx.annotation.Nullable;
 import android.util.AttributeSet;
 import android.widget.ImageView;
 
+import androidx.annotation.Nullable;
 
+
+@SuppressLint("AppCompatCustomView")
 public class Sample01SquareImageView extends ImageView {
     public Sample01SquareImageView(Context context) {
         super(context);
