@@ -1,10 +1,10 @@
-apply plugin: 'com.android.application'
-
+//apply plugin: 'com.android.application'
+apply plugin: 'com.android.library'
 android {
     compileSdkVersion 28
     buildToolsVersion '28.0.3'
     defaultConfig {
-        applicationId "com.hencoder.hencoderpracticelayout1"
+//        applicationId "com.hencoder.hencoderpracticelayout1"
         minSdkVersion 18
         targetSdkVersion 26
         versionCode 1

@@ -25,4 +25,15 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'androidx.test.ext:junit:1.1.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
+
+    implementation project(":lib_base")
+
+    implementation project(':PracticeDraw1')
+    implementation project(':PracticeDraw2')
+    implementation project(':PracticeDraw3')
+    implementation project(':PracticeDraw4')
+    implementation project(':PracticeDraw5')
+    implementation project(':PracticeDraw6')
+    implementation project(':PracticeDraw7')
+    implementation project(':PracticeLayout1')
 }

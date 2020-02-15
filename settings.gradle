@@ -1,2 +1,2 @@
-include ':app', 'PracticeDraw1', 'PracticeDraw2', 'PracticeDraw3', 'PracticeDraw4', 'PracticeDraw5', 'PracticeDraw6', 'PracticeDraw7', 'PracticeLayout1'
+include ':app', 'lib_base','PracticeDraw1', 'PracticeDraw2', 'PracticeDraw3', 'PracticeDraw4', 'PracticeDraw5', 'PracticeDraw6', 'PracticeDraw7', 'PracticeLayout1'
 rootProject.name='HenCode'
